@@ -18,7 +18,6 @@
           removeClass: '',
           transition: false,
           animation: true,
-          onEnd: function() {},
           ms: 0
         };
 
@@ -31,7 +30,7 @@
      * Determine if callback. Allows setting
      * a callback without options.
      */
-    
+
     if (callback) {
       this.callback = typeof callback === 'function' ? callback : function() {};
     } else {

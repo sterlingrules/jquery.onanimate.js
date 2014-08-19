@@ -1,0 +1,30 @@
+{
+  "name": "onanimate",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sterlingrules/onanimate",
+  "description": "jQuery Plugin for managing CSS animation and transition states",
+  "main": "dist/jquery.onanimate.js",
+  "keywords": [
+    "jquery",
+    "css",
+    "animation",
+    "css",
+    "transition",
+    "keyframes",
+    "css3"
+  ],
+  "authors": [
+    "sterlingrules"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
